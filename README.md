@@ -5,3 +5,9 @@ Look at the sample pdf file and compare it with the pdf file that requires extra
 In case the structure of the pdf is changed, the may not produce desired result and may require modifications.
 
 The script contains codes that are tuned to recognise Devnagiri + Numerical characters/words. In case your desired language is different tune-in the code accordingly.
+
+
+* Download and install all the required libraries including -
+- tesseract-ocr-w64-setup
+- poppler for windows
+- Devanagari.traineddata 
